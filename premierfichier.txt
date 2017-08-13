@@ -2,3 +2,7 @@ ce fichier sera est le fichier des login et pwd
 Utilisateur 1
 Login : anaselmoustamid
 pwd : test123
+
+Utilisateur 2
+Login : user2
+Pwd : user2pwd
